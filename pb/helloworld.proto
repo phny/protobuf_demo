@@ -1,3 +1,5 @@
+// protoc -I=. --cpp_out=. helloworld.proto
+
 syntax= "proto3";
 
 package helloworld; 
